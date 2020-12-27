@@ -1,4 +1,6 @@
-git tet
+git 
 
 
 helle git
+
+delete  git
