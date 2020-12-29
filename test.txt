@@ -6,3 +6,4 @@ helle git
 delete  git
 
 dev add
+dev debug
